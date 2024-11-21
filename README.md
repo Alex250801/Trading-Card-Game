@@ -29,7 +29,7 @@ All players must find their assigned nft properties, create a card with the same
     3.4 Mint our NFT
 4. Exchange the minted NFT with the one we got earlier calling (exchangeNft) endpoint. 
     We are trading with ourselves, so sender address == receiver address.
-5.  The last thing here is verification, which will be available once you re-run the scripts again and will be showing in the     
+5.  The last thing here is verification, which will be available once you re-run the scripts again and will be showing in the message:   
 
 `"Congratulations! You already finished the homework!"`
 # Challanges faced
