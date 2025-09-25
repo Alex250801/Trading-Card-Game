@@ -32,6 +32,6 @@ All players must find their assigned nft properties, create a card with the same
 5.  The last thing here is verification, which will be available once you re-run the scripts again and will be showing in the message:   
 
 `"Congratulations! You already finished the homework!"`
-# Challanges faced
+# Challenges faced
 At first I ran the "Obtain your assigned nft" part from main.ipynb multiple times and the SC had no time to respond to my initial request, so I was getting multiple errors. That was because I already moved the nonce counter to 10-15 by running it multiple times and I had no initial response for the first one, so my jupyter script couldn't find the transaction hash details that I was asking. (example: I was asking for the second transaction but the current nonce was indexed at 12, due to multiple runs).
 
